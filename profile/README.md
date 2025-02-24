@@ -1,7 +1,5 @@
 # Welcome to the Open Resource Discovery Project on GitHub
 
-<a href="https://github.com/cobaltcore-dev"><img width="150" height="170" src="https://raw.githubusercontent.com/cobaltcore-dev/.github/main/assets/Logo_Cobalt_Core_Typo_white_background.svg"></a>
-
 :wave: Welcome to the official GitHub presence of the Open Resource Discovery project. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS). Open Resource Discovery (ORD) is a protocol that allows applications and services to self-describe their resources and capabilities (e.g. ports and adapters).
 
 ## :globe_with_meridians: ApeiroRA?
@@ -14,6 +12,8 @@ Learn more about ApeiroRA by checking out the official website at [https://apeir
 
 Open Resource Discovery (ORD) helps software developers and providers to define how their services expose and discover their APIs, Events, capabilities and data. 
 This includes practical concepts and examples of how technical services can implement a business reality over a distributed cloud-edge scenario using ORD-based semantic concepts.
+It is a general-purpose metadata publishing and discovery protocol, able to publish and transport metadata of various different (existing) standards.
+The ecosystem around ORD is therefore not just centered on ORD itself, but more generally how metadata and specifications can be created, validated, published and discovered
 
 ## :bear: Features
 
