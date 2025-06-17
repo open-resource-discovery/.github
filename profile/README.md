@@ -15,6 +15,10 @@ This includes practical concepts and examples of how technical services can impl
 It is a general-purpose metadata publishing and discovery protocol, able to publish and transport metadata of various different (existing) standards.
 The ecosystem around ORD is therefore not just centered on ORD itself, but more generally how metadata and specifications can be created, validated, published and discovered
 
+## :pushpin: Open Resource Discovery and NeoNephos
+
+Open Resource Discovery has been donated to the NeoNephos Foundation, a Linux Foundation initiative dedicated to advancing open-source projects that align with the strategic objectives of IPCEI-CIS under neutral governance. Learn more about NeoNephos and our role within it [here](https://neonephos.org).
+
 ## :bear: Features
 
 - **System Reflection:** Systems describe themselves with a single entry-point to crawl all relevant metadata. 
