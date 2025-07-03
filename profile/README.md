@@ -36,3 +36,7 @@ To facilitate a nice environment for all, check out [our Code of Conduct](https:
 ## :books: Learn More
 
 To learn more about ORD, check out our official website at [https://open-resource-discovery.github.io/specification](https://open-resource-discovery.github.io/specification/).
+
+<p align="center">
+  <img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/>
+</p>
