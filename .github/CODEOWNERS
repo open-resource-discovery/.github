@@ -1,2 +1,6 @@
 # Review owners for CI and build configuration.
 /.github/ @open-resource-discovery/steering-team
+/SECURITY.md @open-resource-discovery/steering-team
+/CODE_OF_CONDUCT.md @open-resource-discovery/steering-team
+/CONTRIBUTING* @open-resource-discovery/steering-team
+/profile/ @open-resource-discovery/steering-team
