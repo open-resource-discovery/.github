@@ -1,4 +1,4 @@
-# Review owners for CI and build configuration.
+# Review owners for repository configuration and community files.
 /.github/ @open-resource-discovery/steering-team
 /SECURITY.md @open-resource-discovery/steering-team
 /CODE_OF_CONDUCT.md @open-resource-discovery/steering-team
